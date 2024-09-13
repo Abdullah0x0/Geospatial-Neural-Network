@@ -43,12 +43,3 @@ For instance:
 -33.92487 18.424055 Africa
 0 0 Atlantic Ocean
 ```
-
-## Contributing
-
-Contributions to the Geospatial Perceptron Neural Network Classifier are encouraged. If you have suggestions for improvements, new features, or bug fixes, please fork the repository, implement your changes, and submit a pull request.
-
-## License
-
-This project is open-source and distributed under the [MIT License](https://opensource.org/licenses/MIT).
-
